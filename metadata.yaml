@@ -1,0 +1,40 @@
+_repo: Imperfectly-Proper_52438
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Johnston, R. E.
+    gutenberg_agent_id: '46860'
+    url: http://www.gutenberg.org/2009/agents/46860
+creator:
+  author:
+    agent_name: Donovan, Peter
+    aliases:
+    - P. O'D.
+    - O'D., P.
+    birthdate: 1884
+    gutenberg_agent_id: '46859'
+    url: http://www.gutenberg.org/2009/agents/46859
+description: ''
+gutenberg_issued: '2016-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian wit and humor'
+- !lcc 'PS'
+- !lcsh 'Canadian essays'
+- GITenberg
+tableOfContents: That motor boat of Algie's -- Aesthetics and some tea -- Beauty in
+  the bank -- Koncerning kosmetics -- Clurks and clarks -- Ventilation -- City chickens
+  -- Porters, Pullmans and patience -- Helping our friends to economize -- Refreshments
+  at five -- Manners for the masses -- Raiment and mere clothes -- That fur coat --
+  Spring in the city -- Moving day -- Vacation vagaries -- Lawnless tennis -- That
+  glorious first drive -- That awful first game -- On keeping cool -- Back to nature
+  in a limousine -- Stringencies and how to stringe in them -- Taming the furnace
+  -- Mike -- Dogs -- On being handy with tools -- Bumps and a brogue.
+title: Imperfectly Proper
+url: http://www.gutenberg.org/ebooks/52438
