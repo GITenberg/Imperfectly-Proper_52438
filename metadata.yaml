@@ -1,10 +1,13 @@
 _repo: Imperfectly-Proper_52438
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Johnston, R. E.
     gutenberg_agent_id: '46860'
     url: http://www.gutenberg.org/2009/agents/46860
+covers:
+- cover_type: archival
+  image_path: 52438-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Donovan, Peter
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '46859'
     url: http://www.gutenberg.org/2009/agents/46859
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52438#Imperfectly-Proper
 gutenberg_issued: '2016-06-29'
 gutenberg_type: Text
 identifiers:
